@@ -1,8 +1,5 @@
 baseurl = "/"
 languageCode = "en-us"
 title = "Simple Shit."
-
 [params]
-  subtitle = "A Site About the Simple Shit."
-
-
+subtitle = "A Site About the [Not-so]Simple Shit."
