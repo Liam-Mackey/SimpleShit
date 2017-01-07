@@ -1,5 +1,5 @@
 theme = "anybodyhome"
-baseurl = "http://librarian-bat-44852.netlify.com/"
+baseurl = "/"
 languageCode = "en-us"
 title = "Simple Shit."
 
