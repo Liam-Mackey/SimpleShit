@@ -1,6 +1,6 @@
 +++
 date = "2016-11-20T15:27:00-05:00"
-draft = true
+draft = false
 title = "In Honor of TX"
 
 +++
