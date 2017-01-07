@@ -1,5 +1,5 @@
 +++
-date = "2017-01-07T20:28:46+00:00"
+date = "2016-12-03T15:28:00-05:00"
 draft = true
 title = "Absurdism and the Pain of Existence"
 
