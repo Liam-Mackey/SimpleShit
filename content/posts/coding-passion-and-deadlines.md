@@ -1,6 +1,6 @@
 +++
 date = "2017-01-07T20:24:58+00:00"
-draft = true
+draft = false
 title = "Coding, Passion, and Deadlines"
 
 +++
