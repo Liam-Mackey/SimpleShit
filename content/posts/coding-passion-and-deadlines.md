@@ -1,5 +1,5 @@
 +++
-date = "2017-01-07T20:24:58+00:00"
+date = "2016-10-30T15:24:00-04:00"
 draft = false
 title = "Coding, Passion, and Deadlines"
 
