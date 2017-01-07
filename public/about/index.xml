@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Abouts on Simple Shit.</title>
-    <link>localhost:8000</link>
+    <link>/about/index.xml</link>
     <description>Recent content in Abouts on Simple Shit.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 07 Jan 2017 13:32:40 -0500</lastBuildDate>
-    <atom:link href="#ZgotmplZ" rel="self" type="application/rss+xml" />
+    <atom:link href="/about/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>About Shit</title>
-      <link>localhost:8000</link>
+      <link>/about/</link>
       <pubDate>Sat, 07 Jan 2017 13:32:40 -0500</pubDate>
       
-      <guid>localhost:8000</guid>
+      <guid>/about/</guid>
       <description>&lt;p&gt;Don’t ever play yourself. Bless up. Learning is cool, but knowing is better, and I know the key to success. You do know, you do know that they don’t want you to have lunch. I’m keeping it real with you, so what you going do is have lunch. Don’t ever play yourself. We don’t see them, we will never see them. The key to more success is to have a lot of pillows. You should never complain, complaining is a weak emotion, you got life, we breathing, we blessed. To be successful you’ve got to work hard, to make history, simple, you’ve got to make it.&lt;/p&gt;
 
 &lt;p&gt;In life there will be road blocks but we will over come it. They don’t want us to win. Let me be clear, you have to make it through the jungle to make it to paradise, that’s the key, Lion! A major key, never panic. Don’t panic, when it gets crazy and rough, don’t panic, stay calm. You smart, you loyal, you a genius. To succeed you must believe. When you believe, you will succeed. You see the hedges, how I got it shaped up? It’s important to shape up your hedges, it’s like getting a haircut, stay fresh. They will try to close the door on you, just open it.&lt;/p&gt;
