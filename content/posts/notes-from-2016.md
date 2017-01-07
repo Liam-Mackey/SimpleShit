@@ -1,6 +1,6 @@
 +++
 date = "2017-01-01T15:29:00-05:00"
-draft = true
+draft = false
 title = "Notes From 2016"
 
 +++
