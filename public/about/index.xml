@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Abouts on Simple Shit.</title>
+    <link>/about/index.xml</link>
+    <description>Recent content in Abouts on Simple Shit.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 07 Jan 2017 13:32:40 -0500</lastBuildDate>
+    <atom:link href="/about/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>About Shit</title>
+      <link>/about/</link>
+      <pubDate>Sat, 07 Jan 2017 13:32:40 -0500</pubDate>
+      
+      <guid>/about/</guid>
+      <description>&lt;p&gt;My Name is Liam Mackey. Here are 5 things you should know about me.&lt;/p&gt;
+
+&lt;p&gt;&lt;span style=&#34;letter-spacing: 0.01em;&#34;&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;span style=&#34;letter-spacing: 0.01em;&#34;&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;span style=&#34;letter-spacing: 0.01em;&#34;&gt;1. I am a Software Engineer.&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;span style=&#34;letter-spacing: 0.01em;&#34;&gt;2. I live in Brooklyn.&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;3. I am also an Artist.&lt;/p&gt;
+
+&lt;p&gt;4. I work hard.&lt;/p&gt;
+
+&lt;p&gt;5. I love to learn.&lt;/p&gt;
+
+&lt;p&gt;There you go I kept it simple.&lt;/p&gt;
+
+&lt;p&gt;&lt;span style=&#34;letter-spacing: 0.01em;&#34;&gt;&lt;/span&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
