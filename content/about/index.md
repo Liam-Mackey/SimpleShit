@@ -6,9 +6,9 @@ title = "About Shit"
 +++
 My Name is Liam Mackey. Here are 5 things you should know about me.
 
- <span style="letter-spacing: 0.01em;"></span> 
+<span style="letter-spacing: 0.01em;"></span>
 
- <span style="letter-spacing: 0.01em;"></span> 
+<span style="letter-spacing: 0.01em;"></span>
 
 <span style="letter-spacing: 0.01em;">1\. I am a Software Engineer.</span>
 
@@ -22,4 +22,12 @@ My Name is Liam Mackey. Here are 5 things you should know about me.
 
 There you go I kept it simple.
 
- <span style="letter-spacing: 0.01em;"></span>
+If you are interested in freelance work, or just want to get to know me:
+
+Email: liammac21@gmail.com 
+
+Github: Liam-Mackey
+
+LinkedIn: https://www.linkedin.com/in/liammackey
+
+<span style="letter-spacing: 0.01em;"></span>
