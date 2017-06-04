@@ -27,5 +27,5 @@ If you or a loved one is dealing with a mental illness and you would like my per
 
 I will leave you with this, as a reminder that it gets better.
 
-![](/bp.png)
+![](/images/rsz_1bp.png)
 
