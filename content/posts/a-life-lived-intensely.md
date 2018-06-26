@@ -1,10 +1,9 @@
 +++
 date = "2017-06-04T00:54:37+00:00"
+draft = true
 title = "A Life Lived Intensely"
 
 +++
-
-
 I live life with an intensity not found in many other people. My highs are glorious, I feel like I am king of the world. My lows are devastating I feel that I always will be and always have been a miserable person. My entire life has consisted of finding a balance between these meteoric rises and catastrophic free falls. Sometimes I am in a normal place where I can think straight and contemplate how crazy life is. Sometimes that contemplation leads to a depressed feeling of will I ever be normal? Other times that contemplation leads to a feeling of awe. The awe that I get to experience the human condition to such extremes, that at 23 I have seen more of the emotional spectrum then most 80 year olds. When I am on a high I love my mind; when I am low it is quite the opposite. Most of the time though I wouldn’t trade any of my experiences, even the crippling depression, for the world.
 
 Sometimes the intensity of mood causes changes in my perception. Sometimes I feel that I am being watched when I am clearly not. Sometimes I think I can know what other people are thinking about me. Sometimes the colors seem brighter, and the vivid imagery of life seems far to beautiful. Sometimes it is so beautiful it is scary. Sensory overload of things that no one else can sense if you will.
@@ -28,4 +27,3 @@ If you or a loved one is dealing with a mental illness and you would like my per
 I will leave you with this, as a reminder that it gets better.
 
 ![](/images/rsz_1bp.png)
-
