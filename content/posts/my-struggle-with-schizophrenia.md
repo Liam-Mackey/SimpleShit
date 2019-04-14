@@ -30,7 +30,7 @@ But living with the symptoms of Bipolar disorder and Schizophrenia is possible. 
 
 That is not to say that there are not challenges, I still struggle with my symptoms daily and face stigma when people find out about my condition but over the last 13 years I have learned ways to cope. I have Schizophrenia and Bipolar disorder but I am not defined by my illness. Before either of those things I am a friend, a coworker, a partner, and a survivor.
 
-To those living with sever mental illness, I want to let you know that you can succeed. Do not let the limitations other people put on you define you. You are stronger than most. Battling your mind every day is one of the hardest things a person can do. But you are doing it, and the more you do it the better you will get at it. 
+To those living with sever mental illness, I want to let you know that you can succeed. Do not let the limitations other people put on you define you. You are stronger than most. Battling your mind every day is one of the hardest things a person can do. But you are doing it, and the more you do it the better you will get at it.
 
 In 6 years I went from food stamps, disability, and spending my days at a care center. To living on my own in New York City, becoming a successful computer programmer, having close friends, and being in a wonderful relationship with a person I love dearly.
 
@@ -40,22 +40,46 @@ The measure of a man is not his success, but his ability to overcome adversity. 
 
 I'd like to end this post with a poem I memorized back when I was first hearing voices and having delusions. It has given me strength in my times of darkness on multiple occasions.
 
-    Out of the night that covers me,   
-      Black as the Pit from pole to pole,   
-    I thank whatever gods may be   
-      For my unconquerable soul.   
-       
-    In the fell clutch of circumstance 
-      I have not winced nor cried aloud.   
-    Under the bludgeonings of chance   
-      My head is bloody, but unbowed.   
-       
-    Beyond this place of wrath and tears   
-      Looms but the Horror of the shade, 
-    And yet the menace of the years   
-      Finds, and shall find, me unafraid.   
-       
-    It matters not how strait the gate,   
-      How charged with punishments the scroll,   
-    I am the master of my fate:
-      I am the captain of my soul.
+> Out of the night that covers me,   
+>
+>   Black as the Pit from pole to pole,   
+>
+> I thank whatever gods may be   
+>
+>   For my unconquerable soul.   
+>
+>    
+>
+> In the fell clutch of circumstance 
+>
+>   I have not winced nor cried aloud.   
+>
+> Under the bludgeonings of chance   
+>
+>   My head is bloody, but unbowed.   
+>
+>    
+>
+> Beyond this place of wrath and tears   
+>
+>   Looms but the Horror of the shade, 
+>
+> And yet the menace of the years   
+>
+>   Finds, and shall find, me unafraid.   
+>
+>    
+>
+> It matters not how strait the gate,   
+>
+>   How charged with punishments the scroll,   
+>
+> I am the master of my fate:
+>
+>   I am the captain of my soul.
+
+Poem by William Ernest Henly
+
+Post By: Liam Mackey
+
+![](/FullSizeRender.jpeg)
