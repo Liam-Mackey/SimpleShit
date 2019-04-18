@@ -11,7 +11,7 @@ After my second suicide attempt at age 13 I spent a week in a children's psychia
 
 Schizophrenia is a broad illness. In fact in recent editions of the DSM 5, the rule book for diagnosing mental illness, Schizophrenia is described on a spectrum. Schizophrenia can also be comorbid with other conditions. When Schizophrenia is comorbid with either Major Depression or Bipolar disorder this is called Schizoaffective disorder. Schizoaffective disorder is the intersection of mood illness and psychosis. Although people with depression and bipolar disorder can experience psychosis in periods of extreme mood fluctuation, people with schizoaffective disorder experience psychosis as a dominant part of their illness. To qualify for schizoaffective disorder you need to experience psychosis without mood fluctuations for at least 2 weeks.
 
-Schizophrenia and Bipolar disorder, my two comorbid conditions express themselves differently depending on the patient. To sum up the symptoms of my condition briefly I experience high swings in mood, depressions that get so low I lose 20 pounds in a month and think about suicide. I also experience elevated moods where I feel like I can do anything, I get little sleep, grandiose thoughts, and exhibit reckless behaviors. To qualify for Schizoaffective disorder psychosis is the dominant player in my life. I have experienced delusions that I could read minds, paranoia thinking that the government was after me, or grandiosity that celebrities were infatuated with me and sending me letters in my neighbors mailboxes. By far the dominant feature of my illness is hallucinations. Even with my medication and therapy I still have auditory hallucinations almost daily. When I become very ill for a period of time I will also experience visual and tactile hallucinations.
+Schizophrenia and Bipolar disorder, my two comorbid conditions express themselves differently depending on the patient. To sum up the symptoms of my condition briefly I experience high swings in mood, depressions that get so low I lose 20 pounds in a month and think about suicide. I also experience elevated moods where I feel like I can do anything, I get little sleep, grandiose thoughts, and exhibit reckless behaviors. To qualify for Schizoaffective disorder psychosis is the dominant player in my life. I have experienced delusions that I could read minds, paranoid thinking that the government was after me, or grandiosity that celebrities were infatuated with me and sending me letters in my neighbors mailboxes. By far the dominant feature of my illness is hallucinations. Even with my medication and therapy I still have auditory hallucinations almost daily. When I become very ill for a period of time I will also experience visual and tactile hallucinations.
 
 These symptoms are quite debilitating. I started hearing voices when I was 13. I remember being terrified by the cacophony of incessant noises in my head. I remember growing paranoid that everyone I knew was after me, trying to lock me away in a hospital forever or kill me.
 
@@ -29,7 +29,7 @@ But living with the symptoms of Bipolar disorder and Schizophrenia is possible. 
 
 That is not to say that there are not challenges, I still struggle with my symptoms daily and face stigma when people find out about my condition but over the last 13 years I have learned ways to cope. I have Schizophrenia and Bipolar disorder but I am not defined by my illness. Before either of those things I am a friend, a coworker, a partner, and a survivor.
 
-To those living with sever mental illness, I want to let you know that you can succeed. Do not let the limitations other people put on you define you. You are stronger than most. Battling your mind every day is one of the hardest things a person can do. But you are doing it, and the more you do it the better you will get at it.
+To those living with severe mental illness, I want to let you know that you can succeed. Do not let the limitations other people put on you define you. You are stronger than most. Battling your mind every day is one of the hardest things a person can do. But you are doing it, and the more you do it the better you will get at it.
 
 In 6 years I went from food stamps, disability, and spending my days at a care center. To living on my own in New York City, becoming a successful computer programmer, having close friends, and being in a wonderful relationship with a person I love dearly.
 
@@ -39,43 +39,37 @@ The measure of a man is not his success, but his ability to overcome adversity. 
 
 I'd like to end this post with a poem I memorized back when I was first hearing voices and having delusions. It has given me strength in my times of darkness on multiple occasions.
 
-> Out of the night that covers me,   
+> Out of the night that covers me,
 >
->   Black as the Pit from pole to pole,   
+> Black as the Pit from pole to pole,
 >
-> I thank whatever gods may be   
+> I thank whatever gods may be
 >
->   For my unconquerable soul.   
+> For my unconquerable soul.
 >
->    
+> In the fell clutch of circumstance
 >
-> In the fell clutch of circumstance 
+> I have not winced nor cried aloud.
 >
->   I have not winced nor cried aloud.   
+> Under the bludgeonings of chance
 >
-> Under the bludgeonings of chance   
+> My head is bloody, but unbowed.
 >
->   My head is bloody, but unbowed.   
+> Beyond this place of wrath and tears
 >
->    
+> Looms but the Horror of the shade,
 >
-> Beyond this place of wrath and tears   
+> And yet the menace of the years
 >
->   Looms but the Horror of the shade, 
+> Finds, and shall find, me unafraid.
 >
-> And yet the menace of the years   
+> It matters not how strait the gate,
 >
->   Finds, and shall find, me unafraid.   
->
->    
->
-> It matters not how strait the gate,   
->
->   How charged with punishments the scroll,   
+> How charged with punishments the scroll,
 >
 > I am the master of my fate:
 >
->   I am the captain of my soul.
+> I am the captain of my soul.
 
 Poem by William Ernest Henly
 
