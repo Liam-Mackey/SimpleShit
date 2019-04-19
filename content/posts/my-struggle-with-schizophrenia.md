@@ -2,7 +2,6 @@
 date = "2019-04-18T00:03:21+00:00"
 draft = false
 title = "My Struggle With Schizophrenia"
-
 +++
 
 I have a secret. One that I hide from most people in my life. It is not that I have done something wrong. It is not that I have lied about anything. My secret is kept hidden because many people fear, stigmatize, and discredit people with my secret. My secret is that I have Schizophrenia.
@@ -78,3 +77,4 @@ Poem by William Ernest Henly
 Post By: Liam Mackey
 
 ![Liam Mackey](/images/FullSizeRender-small.jpeg)
+
